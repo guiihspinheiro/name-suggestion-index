@@ -5631,13 +5631,13 @@
       }
     },
     {
-      "displayName": "Mercado Extra",
+      "displayName": "Extra Mercado",
       "id": "mercadoextra-20f2a8",
       "locationSet": {"include": ["br"]},
       "tags": {
-        "brand": "Mercado Extra",
+        "brand": "Extra Mercado",
         "brand:wikidata": "Q5422131",
-        "name": "Mercado Extra",
+        "name": "Extra Mercado",
         "shop": "supermarket"
       }
     },
